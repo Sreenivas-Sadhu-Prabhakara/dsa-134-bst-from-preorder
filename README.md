@@ -12,6 +12,13 @@ A BST's ordering replaces the second traversal: once a node is placed, every val
 
 **Complexity:** O(n) time, O(h) recursion.
 
+## Visual walkthrough
+
+Read the picture top to bottom — each numbered frame is one moment of the algorithm
+running on this repo's test example.
+
+![Step-by-step visual walkthrough](viz.svg)
+
 ## Run
 
     go test ./...   # verify
